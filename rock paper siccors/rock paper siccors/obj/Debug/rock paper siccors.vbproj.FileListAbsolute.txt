@@ -1,0 +1,12 @@
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\bin\Debug\rock paper siccors.exe.config
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\bin\Debug\rock paper siccors.exe
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\bin\Debug\rock paper siccors.pdb
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\bin\Debug\rock paper siccors.xml
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock paper siccors.vbprojResolveAssemblyReference.cache
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock_paper_siccors.Form1.resources
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock_paper_siccors.Resources.resources
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock paper siccors.vbproj.GenerateResource.Cache
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock paper siccors.vbproj.CoreCompileInputs.cache
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock paper siccors.exe
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock paper siccors.xml
+C:\Users\enkido\source\repos\rock paper siccors\rock paper siccors\obj\Debug\rock paper siccors.pdb
