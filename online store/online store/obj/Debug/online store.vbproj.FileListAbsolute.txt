@@ -1,0 +1,12 @@
+C:\Users\enkido\source\repos\online store\online store\bin\Debug\online store.exe.config
+C:\Users\enkido\source\repos\online store\online store\bin\Debug\online store.exe
+C:\Users\enkido\source\repos\online store\online store\bin\Debug\online store.pdb
+C:\Users\enkido\source\repos\online store\online store\bin\Debug\online store.xml
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online store.vbprojResolveAssemblyReference.cache
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online_store.Form1.resources
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online_store.Resources.resources
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online store.vbproj.GenerateResource.Cache
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online store.vbproj.CoreCompileInputs.cache
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online store.exe
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online store.xml
+C:\Users\enkido\source\repos\online store\online store\obj\Debug\online store.pdb
