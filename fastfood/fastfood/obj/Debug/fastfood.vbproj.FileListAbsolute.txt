@@ -1,0 +1,12 @@
+C:\Users\enkido\source\repos\fastfood\fastfood\bin\Debug\fastfood.exe.config
+C:\Users\enkido\source\repos\fastfood\fastfood\bin\Debug\fastfood.exe
+C:\Users\enkido\source\repos\fastfood\fastfood\bin\Debug\fastfood.pdb
+C:\Users\enkido\source\repos\fastfood\fastfood\bin\Debug\fastfood.xml
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.vbprojResolveAssemblyReference.cache
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.Resources.resources
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.vbproj.GenerateResource.Cache
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.vbproj.CoreCompileInputs.cache
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.exe
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.xml
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.pdb
+C:\Users\enkido\source\repos\fastfood\fastfood\obj\Debug\fastfood.frmFastFood.resources
