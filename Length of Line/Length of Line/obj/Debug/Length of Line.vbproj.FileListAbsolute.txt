@@ -1,0 +1,12 @@
+C:\Users\enkido\source\repos\Length of Line\Length of Line\bin\Debug\Length of Line.exe.config
+C:\Users\enkido\source\repos\Length of Line\Length of Line\bin\Debug\Length of Line.exe
+C:\Users\enkido\source\repos\Length of Line\Length of Line\bin\Debug\Length of Line.pdb
+C:\Users\enkido\source\repos\Length of Line\Length of Line\bin\Debug\Length of Line.xml
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length of Line.vbprojResolveAssemblyReference.cache
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length_of_Line.Form1.resources
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length_of_Line.Resources.resources
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length of Line.vbproj.GenerateResource.Cache
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length of Line.vbproj.CoreCompileInputs.cache
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length of Line.exe
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length of Line.xml
+C:\Users\enkido\source\repos\Length of Line\Length of Line\obj\Debug\Length of Line.pdb
