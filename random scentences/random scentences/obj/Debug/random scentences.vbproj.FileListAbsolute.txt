@@ -1,0 +1,12 @@
+C:\Users\enkido\source\repos\random scentences\random scentences\bin\Debug\random scentences.exe.config
+C:\Users\enkido\source\repos\random scentences\random scentences\bin\Debug\random scentences.exe
+C:\Users\enkido\source\repos\random scentences\random scentences\bin\Debug\random scentences.pdb
+C:\Users\enkido\source\repos\random scentences\random scentences\bin\Debug\random scentences.xml
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random scentences.vbprojResolveAssemblyReference.cache
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random_scentences.Form1.resources
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random_scentences.Resources.resources
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random scentences.vbproj.GenerateResource.Cache
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random scentences.vbproj.CoreCompileInputs.cache
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random scentences.exe
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random scentences.xml
+C:\Users\enkido\source\repos\random scentences\random scentences\obj\Debug\random scentences.pdb
