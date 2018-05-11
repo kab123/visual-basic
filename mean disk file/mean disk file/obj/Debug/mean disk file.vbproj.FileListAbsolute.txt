@@ -1,0 +1,12 @@
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean disk file.vbprojResolveAssemblyReference.cache
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean_disk_file.Form1.resources
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean_disk_file.Resources.resources
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean disk file.vbproj.GenerateResource.Cache
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean disk file.vbproj.CoreCompileInputs.cache
+C:\Users\enkido\source\repos\mean disk file\mean disk file\bin\Debug\mean disk file.exe.config
+C:\Users\enkido\source\repos\mean disk file\mean disk file\bin\Debug\mean disk file.exe
+C:\Users\enkido\source\repos\mean disk file\mean disk file\bin\Debug\mean disk file.pdb
+C:\Users\enkido\source\repos\mean disk file\mean disk file\bin\Debug\mean disk file.xml
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean disk file.exe
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean disk file.xml
+C:\Users\enkido\source\repos\mean disk file\mean disk file\obj\Debug\mean disk file.pdb
